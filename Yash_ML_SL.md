@@ -28,7 +28,10 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://miro.medium.com/max/787/0*XuT17hUnXWXh8EmO" alt="tree diagram" width="60%" height="60%">
 
 
-* **Supervised Learning** :-
+* **Supervised Learning** :- Supervised Learning works under supervision.meaning the data that you have collected here is labelled and so you know what input needs to be mapped to what output. This helps you correct your algorithm if it makes a mistake in giving you the answer.
+
+* **Unsupervised Learning** :- The data collected here has no labels and you are not sure about the outputs. So you model your algorithm such that it can understand patterns from the data and output the required answer. You do not interfere when the algorithm learns.
+* **Reinforcement Learning** :- There is no data in this kind of learning, nor do you teach the algorithm anything. You model the algorithm such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. With continuous interactions and learning, it goes from being bad to being the best that it can for the problem assigned to it.
 
 ## What is Supervised Learning?:-
 
