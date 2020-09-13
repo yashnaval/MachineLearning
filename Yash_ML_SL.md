@@ -10,3 +10,8 @@ Machine learning (ML) is the science of making computers learn and act like huma
 5. Optimize performance criteria using past experience.
 
 ## Types Of Machine Learning :-
+Now, let's have a look on different types of ML through below tree diagram
+ <img src="Extras/typesML.png" alt="tree diagram">
+
+ 
+## What is Supervised Learning:-
