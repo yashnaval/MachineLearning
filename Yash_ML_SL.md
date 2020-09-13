@@ -28,6 +28,8 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://miro.medium.com/max/787/0*XuT17hUnXWXh8EmO" alt="tree diagram" width="60%" height="60%">
 Now we will move to supervised learning(SL)
 
+* **Supervised Learning** :-
+
 ## What is Supervised Learning?:-
 
 * Supervised Learning works under supervision.
@@ -53,6 +55,6 @@ Now we will move to supervised learning(SL)
 
 * ***Spam Filtration:***  Detecting spam emails is indeed a very helpful tool, this filtration techniques can easily detect any sort of virus, malware . In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
 * ***Sentiment Analysis:*** It is a natural language processing technique in which we analyze and categorize some meaning out of the given text data. For example, if we are analyzing tweets of people and want to predict whether a tweet is a query, complaint, suggestion, opinion or news, we will simply use sentiment analysis.
-* ***Recommendations:*** Every e-Commerce site or media, all of them use the recommendation system to recommend their products and new releases to their customers or users on the basis of their activities. Netflix, Amazon, Youtube, Flipkart are earning huge profits with the help of their recommendation system.
+* ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
 
 
