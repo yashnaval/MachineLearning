@@ -10,6 +10,8 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 4. Interprets data & act on it.
 5. Optimize performance criteria using past experience.
 
+## Key Terminologies :-
+
 ## Types Of Machine Learning :-
 
 Machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are three basic approaches of ML :
