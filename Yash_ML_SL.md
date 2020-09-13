@@ -51,7 +51,7 @@ Now we will move to supervised learning(SL)
 
 ### Application of supervised learning :-
 
-* Spam Filtration: Detecting spam emails is indeed a very helpful tool, this filtration techniques can easily detect any sort of virus, malware . In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
+* ***Spam Filtration***: Detecting spam emails is indeed a very helpful tool, this filtration techniques can easily detect any sort of virus, malware . In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
 
 
 
