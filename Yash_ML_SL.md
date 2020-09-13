@@ -1,5 +1,4 @@
 # Introduction To Machine Learning
-
 Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on the designing of systems,thereby allowing them to learn and make predictions based on some experience which is data in case of machines.
 
 ## Key Points :-
@@ -16,3 +15,5 @@ Machine learning is often categorized by how an algorithm learns to become more 
 Now we will move to supervised learning(SL)
 
 ## What is Supervised Learning:-
+
+
