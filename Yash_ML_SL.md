@@ -29,7 +29,7 @@ Now we will move to supervised learning(SL)
 
 ## Why Supervised Learning is important for real world solving problem?  :-
 
-* Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try yo tag someone,forecasting sales,weather detection).
+* Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
 * Supervised learning is very useful in cyber-security.
 
