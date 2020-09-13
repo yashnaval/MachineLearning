@@ -12,6 +12,15 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 
 ## Key Terminologies :-
 
+1. Expert System.
+2. Training Set.
+3. Validation Set.
+4. Test Set.
+5. Target Variable.
+6. Classification.
+7. Regression.
+8. Feature.
+
 ## Types Of Machine Learning :-
 
 Machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are three basic approaches of ML :
