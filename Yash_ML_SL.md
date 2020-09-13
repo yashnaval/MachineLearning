@@ -72,5 +72,5 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png" width="40%" height="40%">
 
 * ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
-
+<img src="https://image.slidesharecdn.com/sr-170427000436/95/speech-recognition-system-1-638.jpg?cb=1494239334" width="30%" height="30%">
 
