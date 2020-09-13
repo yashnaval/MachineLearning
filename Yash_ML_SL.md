@@ -2,7 +2,7 @@
 
 Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on the designing of systems,thereby allowing them to learn and make predictions based on some experience which is data in case of machines.
 
-## Key Points :-
+### Key Points :-
 
 * Data is in the form of Information.
 * Problem solving tool.
@@ -10,7 +10,7 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 * Interprets data & act on it.
 * Optimize performance criteria using past experience.
 
-## Key Terminologies :-
+### Key Terminologies :-
 
 1. Expert System.
 2. Training DataSet.
@@ -21,7 +21,7 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 7. Regression.
 8. Feature.
 
-## Types Of Machine Learning :-
+### Types Of Machine Learning :-
 
 Machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are three basic approaches of ML :
 
@@ -38,11 +38,18 @@ Now we will move to supervised learning(SL)
 * In this image above you can see that we are feeding inputs as an image of apples and bananas to the algorithm as a part of the algorithm we have a supervisor who keeps on correcting the machine or who keeps on training the machines or keeps on telling him that yes it is an apple or  it is an banana , things like teacher teaches his students because the teacher already knows the results.
 * The data set is used as the basis for predicting the classification of other unlabeled data through the use of machine learning algorithms.
 
-## Why Supervised Learning is important for real world solving problem?  :-
+### Why Supervised Learning is important for real world solving problem?  :-
 
 * Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
 * Supervised learning is very useful in cyber-security.
+
+### Disadvantage :-
+
+* Classifying big data can be challenging.
+* Training for supervised learning needs a lot of computation time.So,it requires a lot of time.
+
+### Application of supervised learning :-
 
 
 
