@@ -28,7 +28,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://miro.medium.com/max/787/0*XuT17hUnXWXh8EmO" alt="tree diagram" width="60%" height="60%">
 Now we will move to supervised learning(SL)
 
-## What is Supervised Learning:-
+## What is Supervised Learning?:-
 
 * Supervised Learning works under supervision.
 * In supervised learning, you train your model on a labelled dataset that means we have both  input data as well as output data. We split our data into a training dataset and test dataset where the training dataset(like **If shape of object is rounded and depression at top having color Red then it will be labeled as Apple.**) is used to train our network whereas the test dataset acts as new data for predicting output or to see the accuracy of our model.
