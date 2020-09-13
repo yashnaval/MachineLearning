@@ -74,3 +74,5 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
 <img src="https://image.slidesharecdn.com/sr-170427000436/95/speech-recognition-system-1-638.jpg?cb=1494239334" width="30%" height="30%">
 
+##### Now that you have a basic idea of what is Supervised Learning and its importance and disadvantages and application.Let us move into its types and Algorithms.
+
