@@ -45,7 +45,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * In this image above you can see that we are feeding inputs as an image of apples and bananas to the algorithm as a part of the algorithm we have a supervisor who keeps on correcting the machine or who keeps on training the machines or keeps on telling him that yes it is an apple or  it is an banana , things like teacher teaches his students because the teacher already knows the results.
 * The data set is used as the basis for predicting the classification of other unlabeled data through the use of machine learning algorithms.
 
-### Why Supervised Learning is important for real world solving problem?  :-
+### Why Supervised Learning is important for real world solving problems?  :-
 
 * Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
