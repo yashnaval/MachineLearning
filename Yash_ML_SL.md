@@ -1,4 +1,3 @@
 # Introduction To Machine Learning
 
-Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use past data as input to predict new output values.
-
+Machine learning (ML) is the science of making computers learn and act like humans by feeding data and information without being explicitly programmed!.Data is given to system,system analyse it & learn it.Machine acturately makes prediction & decision based on past data.
