@@ -57,7 +57,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * **Regression**.
 * **Classification**.
 
-### Disadvantage :-
+### Disadvantages :-
 
 * Classifying big data can be challenging.
 * Training for supervised learning needs a lot of computation time.So,it requires a lot of time.
