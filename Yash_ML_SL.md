@@ -52,6 +52,10 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * Supervised learning is very useful in cyber-security.
 > With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning along with the algorithms!
 
+### What are the types of Supervised Learning? :-
+
+
+
 ### Disadvantage :-
 
 * Classifying big data can be challenging.
