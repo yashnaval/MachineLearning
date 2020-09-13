@@ -14,5 +14,4 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 <img src="Extras/typesML.png" alt="tree diagram">
 
- 
 ## What is Supervised Learning:-
