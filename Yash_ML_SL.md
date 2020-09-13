@@ -1,6 +1,6 @@
 # Introduction To Machine Learning
 
-Machine learning (ML) is the science of making computers learn and act like humans by feeding data and information without being explicitly programmed.Data is given to system,system analyse it & learn it.Machine acturately makes prediction & decision based on past data.
+Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on the designing of systems,thereby allowing them to learn and make predictions based on some experience which is data in case of machines.
 
 ## Key Points :-
 1. Data is in the form of Information.
