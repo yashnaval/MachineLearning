@@ -50,11 +50,12 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
 * Supervised learning is very useful in cyber-security.
-> With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning along with the algorithms!
+> With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning.
 
 ### What are the types of Supervised Learning? :-
 
-
+* **Regression**.
+* **Classification**.
 
 ### Disadvantage :-
 
