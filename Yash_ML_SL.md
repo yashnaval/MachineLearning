@@ -69,6 +69,8 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://miro.medium.com/max/1840/1*hsyCZOYoGrX6BJsj4Lgrhg.png" alt="spam filtration" width="40%" height="40%">
 
 * ***Sentiment Analysis:*** It is a natural language processing technique in which we analyze and categorize some meaning out of the given text data. For example, if we are analyzing tweets of people and want to predict whether a tweet is a query, complaint, suggestion, opinion or news, we will simply use sentiment analysis.
+<img src="https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png" width="40%" height="40%">
+
 * ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
 
 
