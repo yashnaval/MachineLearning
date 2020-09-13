@@ -26,7 +26,7 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 Machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are three basic approaches of ML :
 
 <img src="https://miro.medium.com/max/787/0*XuT17hUnXWXh8EmO" alt="tree diagram" width="60%" height="60%">
-Now we will move to supervised learning(SL)
+
 
 * **Supervised Learning** :-
 
