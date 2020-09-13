@@ -4,11 +4,11 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 
 ## Key Points :-
 
-1. Data is in the form of Information.
-2. Problem solving tool.
-3. Combination of CS(Computer Science),Engineering & Statistics.
-4. Interprets data & act on it.
-5. Optimize performance criteria using past experience.
+* Data is in the form of Information.
+* Problem solving tool.
+* Combination of CS(Computer Science),Engineering & Statistics.
+* Interprets data & act on it.
+* Optimize performance criteria using past experience.
 
 ## Key Terminologies :-
 
