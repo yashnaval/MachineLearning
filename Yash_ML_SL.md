@@ -78,4 +78,6 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 ### What Is Regression? :-
 
+Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable.
+
 
