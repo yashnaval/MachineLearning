@@ -33,7 +33,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * **Unsupervised Learning** :- The data collected here has no labels and you are not sure about the outputs. So you model your algorithm such that it can understand patterns from the data and output the required answer. You do not interfere when the algorithm learns.
 * **Reinforcement Learning** :- There is no data in this kind of learning, nor do you teach the algorithm anything. You model the algorithm such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. With continuous interactions and learning, it goes from being bad to being the best that it can for the problem assigned to it.
 
-##### Now that you have a basic idea of what is Machine Learning and the different types of Machine Learning, let us dwell into the actual topic for discussion here and answer What is Supervised Learning? Where is Supervised Learning used? What are the types of Supervised Learning? Supervised Learning Algorithms and much more!
+##### Now that you have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important for real world solving problem?  What are the types of Supervised Learning? Supervised Learning Algorithms.
 
 ## What is Supervised Learning?:-
 
@@ -50,6 +50,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
 * Supervised learning is very useful in cyber-security.
+> With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning along with the algorithms!
 
 ### Disadvantage :-
 
