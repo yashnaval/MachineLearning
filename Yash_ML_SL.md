@@ -80,6 +80,11 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 * Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable.
 * A regression analysis involves graphing a line over a set of data points that most closely fits the overall shape of the data or regression showes the changes in independent variable on y-axis to changes in the dependent variable on the x-axis.
->Now,I hope that you know What Regression is.
+>Now,I hope that you know What Regression is.so let's move on and understand its type.
+
+### Types Of Regression :-
+
+* **Linear Regression** :- A Linear Regression is one of the easiest algorithm in ML.It is a stastical model that attempts to show the relationship between the two variable,input(X) & output(Y) with the linear equation.The Input variable is called the Independent Variable and the Output variable is called the Dependent Variable.When unseen data is passed to the algorithm, it uses the function, calculates and maps the input to a continuous value for the output.
+<img src="https://nextjournal.com/data/QmfPuPp4V74FyvTTojMj6ix9T8Skj1ji4GhX5Pr6zK8w4N?filename=linear-regression.png&content-type=image/png" alt="linear regression">
 
 
