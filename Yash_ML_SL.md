@@ -98,7 +98,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 ### What Is Classification? :-
 * Classification is a process of categorizing a given set of data into classes,it can be performed on both structured or not structured data.The process starts with predicting the class of given data points.The classes are often referred to as target,label or categories.
 * The classification predicting modelling is the task of approximating the mapping function from input variables to discrete output variables.The main goal is to identify which class or category the new data will fall into.
-<img src="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png" alt="Classification">
+<img src="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png" alt="Classification"  height="35%" width="35%">
 
 * so let's try to understand with the simple example,Heart disease detection can be identified as a classification problem.There is a binary classification since there can only be two classes(has a heart disease or does not have a heart disease).The classifier in these case needs training data to understand how the given input variables are related to the class & one's the classifier is trained accurately,it can be use to detect whether heart disease or not for a particular patient.
 
