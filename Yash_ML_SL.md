@@ -117,6 +117,9 @@ Machine learning is categorized by how an program/software learns to become more
 7. Support Vector Machine.
 8. K-Nearest Neighbor.
 
+> we already discuss about Logistic Regression,now we discuss another algorithm .
+* **Naive Bayes** :- 
+
 
 
 
