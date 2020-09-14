@@ -106,8 +106,16 @@ Machine learning is categorized by how an program/software learns to become more
 
 ### Classification algorithm :-
 
-* Let me first tell you what are classification algorithms.
+* Let me first tell you what are classification algorithms.classification is a supervised learning concept with basically categories are set of data into classes.so most common classification problem are speech recognition,face detection,handwriting recognition,document classification etc.It can be either binary classification problem or multi-lass problem too.so there are bunch of ML lagorithms for classification.Let's take look at those classification algorithms :-
 
+1. Decision tree.
+2. Logistic Regression.
+3. Artificial Neural Network.
+4. Random Forest.
+5. Stochastic Gradient Descent.
+6. Naive Bayes.
+7. Support Vector Machine.
+8. K-Nearest Neighbor.
 
 
 
