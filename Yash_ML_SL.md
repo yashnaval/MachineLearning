@@ -131,6 +131,7 @@ Machine learning is categorized by how an program/software learns to become more
 > These is all about ML and its types.In next topic we will learn about How it works.
 
 
+**you can contact me,by following links:-**
 * <a href="https://www.facebook.com/yash.naval.92/">
   <img align="left" alt="Yash Naval's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
