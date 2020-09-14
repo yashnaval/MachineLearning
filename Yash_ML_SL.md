@@ -152,7 +152,7 @@ Now, P (Yes | Clear) = 0.33 * 0.64 / 0.36 = 0.60, which has higher probability s
 > now we understand,How naive bayes work.
 ##### Here we end our topic,hope you understand well.
 
-**You can contact me & if you have any querries feel free to ask just click the icon:-**
+**You can contact me from below links provided just click the icon:-**
 * <a href="https://www.facebook.com/yash.naval.92/">
   <img align="left" alt="Yash Naval's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
