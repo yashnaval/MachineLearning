@@ -1,6 +1,6 @@
 # Introduction To Machine Learning
 
-Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on the designing of systems,thereby allowing them to learn and make predictions based on some experience which is data in case of machines.
+Machine learning (ML) is a branch of Artificial Intelligence.It fouses mainly on the designing of systems,thereby allowing them to learn and make predictions based on some experience which is data in case of machines.
 
 ### Key Points :-
 
@@ -8,7 +8,7 @@ Machine learning (ML) is a subset of Artificial Intelligence.It fouses mainly on
 * Problem solving tool.
 * Combination of CS(Computer Science),Engineering & Statistics.
 * Interprets data & act on it.
-* Optimize performance criteria using past experience.
+* Optimize performance using past experience.
 
 ### Key Terminologies :-
 
@@ -28,13 +28,13 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://miro.medium.com/max/787/0*XuT17hUnXWXh8EmO" alt="tree diagram" width="60%" height="60%">
 
 
-* **Supervised Learning** :- Supervised Learning works under supervision.meaning the data that you have collected here is labelled and so you know what input needs to be mapped to what output. This helps you correct your program if there is some mistake.
+* **Supervised Learning** :- Supervised Learning works under supervision.the dataset that you have collected here is labelled and so you know what input needs to be mapped to what output. This helps you correct your program if there is some mistake.
 
-* **Unsupervised Learning** :- The data collected here has no labels and you are not sure about the outputs. So you model your program such that it can understand patterns from the input data and gives the required answer(output). You do not interfere when the algorithm learns.
+* **Unsupervised Learning** :- The data collected here has no labels and you are not sure about the outputs. So you model your program such that it can understand patterns from the input data and gives the required answer(output).
 
-* **Reinforcement Learning** :- There is no data in this kind of learning, nor do you teach the algorithm anything. You model the algorithm such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. With continuous interactions and learning. 
+* **Reinforcement Learning** :- There is no dataset in this kind of learning, not do you teach the algorithm anything. You model the program such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. 
 
-##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important for real world solving problem?  What are the types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
+##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important for real world solving problem? Types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
 
 ## What is Supervised Learning?:-
 
@@ -53,7 +53,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * Supervised learning is very useful in cyber-security.
 > With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning.
 
-### What are the types of Supervised Learning? :-
+### Types of Supervised Learning? :-
 
 * **Regression**.
 * **Classification**.
