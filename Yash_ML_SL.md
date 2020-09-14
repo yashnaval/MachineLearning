@@ -131,14 +131,14 @@ Machine learning is categorized by how an program/software learns to become more
 > These is all about ML and its types.In next topic we will learn about How it works.
 
 ### How Naive Bayes algorithm works?
-* Let’s understand it using an example. Below I have a training data set of weather and corresponding target variable ‘Play’ (suggesting possibilities of playing). Now, we need to classify whether players will play or not based on weather condition. Let’s follow the below steps to perform it.
+* Let’s understand it using an example.I have a training data set of weather and corresponding target variable ‘Play’ (which showing probability of playing). we need to classify whether players will play or not based on weather condition. Let’s follow the below steps :-
 
-* Step 1: Convert the data set into a frequency table
+* Step 1: Convert the dataset into a frequency table
 
-* Step 2: Create Likelihood table by finding the probabilities like Overcast probability = 0.29 and probability of playing is 0.64.
+* Step 2: find the probabilities like Overcast probability = 0.29 and probability of playing = 0.64.
 <img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Bayes_41-850x310.png" height="70%" width="70%">
 
-* Step 3: Now, use Naive Bayesian equation to calculate the posterior probability for each class. The class with the highest posterior probability is the outcome of prediction.
+* Step 3: Now,We use Naive Bayesian equation to calculate the  probability for each class. The class with the highest posterior probability is the ouput.which is similar to prediction.
 
 * **Problem**: Cricket will play if weather is clear. Is this statement is right?
 
