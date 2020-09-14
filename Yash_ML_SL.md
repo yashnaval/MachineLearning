@@ -118,7 +118,11 @@ Machine learning is categorized by how an program/software learns to become more
 8. K-Nearest Neighbor.
 
 > we already discuss about Logistic Regression,now we discuss another algorithm .
-* **Naive Bayes** :- It is a classification algorithm which is based on Bayes Theorem.It gives an assumptions of independence among predictors.in simple way we can say that,Naive Bayes classifier assumes that the presence of a feature in a class is unrelated to the presence of other feature.Even if the feature depend on each other all are these properties contribute to the probability independently.So these model is easy to make & use for large dataset.
+* **Naive Bayes** :- 1. It is a classification algorithm which is based on Bayes Theorem.It gives an assumptions of independence among predictors.in simple way we can say that,Naive Bayes classifier assumes that the presence of a feature in a class is unrelated to the presence of other feature.Even if the feature depend on each other all are these properties contribute to the probability independently.So these model is easy to make & use for large dataset.
+2. Bayes theorem :- Finding  the probability of event A, when event B is true.
+      P(A|B)=  (P(B|A)*P(A))/P(B).
+      P(A) = probability of event before event B.
+      P(B) = probability of event after event B.
 
 
 
