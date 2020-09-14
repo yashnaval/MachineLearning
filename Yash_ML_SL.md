@@ -136,6 +136,7 @@ Machine learning is categorized by how an program/software learns to become more
 * Step 1: Convert the data set into a frequency table
 
 * Step 2: Create Likelihood table by finding the probabilities like Overcast probability = 0.29 and probability of playing is 0.64.
+<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Bayes_41-850x310.png">
 
 **You can contact me & if you have any querries feel free to ask just click the icon:-**
 * <a href="https://www.facebook.com/yash.naval.92/">
