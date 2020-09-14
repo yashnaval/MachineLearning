@@ -23,7 +23,7 @@ Machine learning (ML) is a branch of Artificial Intelligence.It fouses mainly on
 
 ### Types Of Machine Learning :-
 
-Machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are three basic approaches of ML :
+Machine learning is categorized by how an program/software learns to become more accurate & precise in its predictions. There are three basic approaches of ML :
 
 <img src="https://miro.medium.com/max/787/0*XuT17hUnXWXh8EmO" alt="tree diagram" width="60%" height="60%">
 
@@ -34,7 +34,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 * **Reinforcement Learning** :- There is no dataset in this kind of learning, not do you teach the algorithm anything. You model the program such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. 
 
-##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important for real world solving problem? Types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
+##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important? Types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
 
 ## What is Supervised Learning?:-
 
@@ -46,9 +46,9 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * In this image above you can see that we are feeding inputs as an image of apples and bananas to the algorithm as a part of the algorithm we have a supervisor who keeps on checking and correcting the machine or who keeps on training the machines or keeps on telling him that yes it is an apple or  it is an banana , things like teacher teaches his students because the teacher already knows the results.
 * It is used for predicting the classification of other unlabled data through the use of supervised learning.
 
-### Why Supervised Learning is important for real world solving problems?  :-
+### Why Supervised Learning is important ?  :-
 
-* Supervised learning helps to solve various types of real-world computation problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
+* Supervised learning helps to solve various types of real-world problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
 * Supervised learning is very useful in cyber-security.
 > With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning.
@@ -69,7 +69,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * ***Spam Filtration:***  Detecting spam emails is indeed a very helpful tool, this filtration techniques can easily detect any sort of virus, malware . In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
 <img src="https://miro.medium.com/max/1840/1*hsyCZOYoGrX6BJsj4Lgrhg.png" alt="spam filtration" width="40%" height="40%">
 
-* ***Sentiment Analysis:*** It is a natural language processing technique in which we analyze and categorize some meaning out of the given text data. For example, if we are analyzing tweets of people and want to predict whether a tweet is a query, complaint, suggestion, opinion or news, we will simply use sentiment analysis.
+* ***Sentiment Analysis:*** It is a language processing technique in which we check & categorize some meaning out of the given text data. For example, if we are analyzing messages of people and want to predict whether a message is a query, complaint, suggestion or opinion, we will simply use sentiment analysis.
 <img src="https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png" width="40%" height="40%">
 
 * ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
@@ -103,6 +103,10 @@ Machine learning is often categorized by how an algorithm learns to become more 
 <img src="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png" alt="Classification"  height="50%" width="50%">
 
 * so let's try to understand with the simple example,Heart disease detection can be identified as a classification problem.There is a binary classification since there can only be two classes(has a heart disease or does not have a heart disease).The classifier in these case needs training data to understand how the given input variables are related to the class & one's the classifier is trained accurately,it can be use to detect whether heart disease or not for a particular patient.
+
+### Classification algorithm :-
+
+* Let me first tell you what are classification algorithms.
 
 
 
