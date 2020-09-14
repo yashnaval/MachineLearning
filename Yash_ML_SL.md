@@ -140,6 +140,20 @@ Machine learning is categorized by how an program/software learns to become more
 
 * Step 3: Now, use Naive Bayesian equation to calculate the posterior probability for each class. The class with the highest posterior probability is the outcome of prediction.
 
+* **Problem**: Players will play if weather is sunny. Is this statement is correct?
+
+We can solve it using above discussed method of posterior probability.
+
+P(Yes | Sunny) = P( Sunny | Yes) * P(Yes) / P (Sunny)
+
+Here we have P (Sunny |Yes) = 3/9 = 0.33, P(Sunny) = 5/14 = 0.36, P( Yes)= 9/14 = 0.64
+
+Now, P (Yes | Sunny) = 0.33 * 0.64 / 0.36 = 0.60, which has higher probability.
+
+Naive Bayes uses a similar method to predict the probability of different class based on various attributes. This algorithm is mostly used in text classification and with problems having multiple classes.
+
+
+
 **You can contact me & if you have any querries feel free to ask just click the icon:-**
 * <a href="https://www.facebook.com/yash.naval.92/">
   <img align="left" alt="Yash Naval's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -160,7 +174,6 @@ Machine learning is categorized by how an program/software learns to become more
 * <a href="https://www.linkedin.com/in/yash-naval-96104b1b5/">
   <img align="left" alt="Yash Naval's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 
 #### Thanks For Reading!
 
