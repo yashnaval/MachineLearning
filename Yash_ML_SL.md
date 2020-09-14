@@ -91,6 +91,6 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 2. **Logistic Regression** :-
 * Logistic Regression is a method used to predict a dependent variable,given a set of independent variables,such that the dependent variable is categorical.It does the prediction by mapping the unseen data to the logit function that has been programmed into it. The algorithm predicts the probability of the new data and so it’s output lies between the range of 0 and 1.
-* The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).'The output curve is known as Sigmoid 'S' Curve.'
+* The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).' The output curve is known as Sigmoid 'S' Curve.'
 <img src="https://miro.medium.com/max/499/0*ENkZ5v28CDzuaoYU.png" height="35%" width="35%" alt="logistic regression">
 
