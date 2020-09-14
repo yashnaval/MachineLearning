@@ -129,6 +129,29 @@ Machine learning is categorized by how an program/software learns to become more
       P(B) = probability of event after event B.
       
 > These is all about ML and its types.In next topic we will learn about How it works.
+
+
+* <a href="https://www.facebook.com/yash.naval.92/">
+  <img align="left" alt="Yash Naval's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+* <a href="https://twitter.com/YashNaval2">
+  <img align="left" alt="Yash Naval's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+* <a href="https://www.instagram.com/yash_naval/">
+  <img align="left" alt="Yash Naval's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+* <a href="https://github.com/yashnaval">
+  <img align="left" alt="Yash Naval's Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+* <a href="https://www.linkedin.com/in/yash-naval-96104b1b5/">
+  <img align="left" alt="Yash Naval's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
 #### Thanks For Reading!!!
 
 
