@@ -94,3 +94,9 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).The output curve is known as Sigmoid 'S' Curve.
 <img src="https://miro.medium.com/max/499/0*ENkZ5v28CDzuaoYU.png" height="35%" width="35%" alt="logistic regression">
 
+### What Is Classification? :-
+
+
+
+
+
