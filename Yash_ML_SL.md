@@ -97,7 +97,7 @@ Machine learning is categorized by how an program/software learns to become more
 
 |         |Linear Regression|Logistic Regression|
 |---------|-----------------|-------------------|
-|  Def    |  Data           |  Data             |
+|  Defination    |  Data           |  Data             |
 |  Data   |  Data           |   Data            | 
 
 > Now,We done with our 1st type of SL,let's take a look at 2nd type, Classification.
