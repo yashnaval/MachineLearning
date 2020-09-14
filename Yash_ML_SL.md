@@ -43,7 +43,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/08/What-is-supervised-learning.jpg" alt="tree diagram" width="60%" height="60%">
 
-* In this image above you can see that we are feeding inputs as an image of apples and bananas to the algorithm as a part of the algorithm we have a supervisor who keeps on correcting the machine or who keeps on training the machines or keeps on telling him that yes it is an apple or  it is an banana , things like teacher teaches his students because the teacher already knows the results.
+* In this image above you can see that we are feeding inputs as an image of apples and bananas to the algorithm as a part of the algorithm we have a supervisor who keeps on checking and correcting the machine or who keeps on training the machines or keeps on telling him that yes it is an apple or  it is an banana , things like teacher teaches his students because the teacher already knows the results.
 * It is used for predicting the classification of other unlabled data through the use of supervised learning.
 
 ### Why Supervised Learning is important for real world solving problems?  :-
