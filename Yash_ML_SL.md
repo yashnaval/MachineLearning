@@ -81,6 +81,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 * Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable.
 * A regression analysis involves graphing a line over a set of data points that most closely fits the overall shape of the data or regression showes the changes in independent variable on y-axis to changes in the dependent variable on the x-axis.
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/linear-regression-vs-logistic-regression.png" alt="Regression">
 >Now,I hope that you know What Regression is.so let's move on and understand its type.
 
 ### Types Of Regression :-
