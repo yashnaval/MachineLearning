@@ -127,9 +127,15 @@ Machine learning is categorized by how an program/software learns to become more
       P(A|B)=  (P(B|A)*P(A))/P(B).<br>
       P(A) = probability of event before event B.<br>
       P(B) = probability of event after event B.
-      
+            
 > These is all about ML and its types.In next topic we will learn about How it works.
 
+### How Naive Bayes algorithm works?
+* Let’s understand it using an example. Below I have a training data set of weather and corresponding target variable ‘Play’ (suggesting possibilities of playing). Now, we need to classify whether players will play or not based on weather condition. Let’s follow the below steps to perform it.
+
+* Step 1: Convert the data set into a frequency table
+
+* Step 2: Create Likelihood table by finding the probabilities like Overcast probability = 0.29 and probability of playing is 0.64.
 
 **You can contact me & if you have any querries feel free to ask just click the icon:-**
 * <a href="https://www.facebook.com/yash.naval.92/">
