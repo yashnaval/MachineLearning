@@ -149,7 +149,7 @@ P(Yes | Clear) = P( Clear | Yes) * P(Yes) / P (Clear) ...........{P(A|B)=  (P(B|
 we have P (Clear |Yes) = 3/9 = 0.33, P(Clear) = 5/14 = 0.36, P( Yes)= 9/14 = 0.64
 
 Now, P (Yes | Clear) = 0.33 * 0.64 / 0.36 = 0.60, which has higher probability so weather is clear.
-> now we understand,How naive bayes work.
+
 ##### Here we end our topic,hope you understand well.
 
 **You can contact me from below links provided just click the icon:-**
