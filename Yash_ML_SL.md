@@ -95,7 +95,10 @@ Machine learning is categorized by how an program/software learns to become more
 * The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).The output curve is known as Sigmoid 'S' Curve.
 <img src="https://miro.medium.com/max/499/0*ENkZ5v28CDzuaoYU.png" height="35%" width="35%" alt="logistic regression">
 
-<img src="https://miro.medium.com/max/1450/1*rsNiQDB2HZBzlihOwyi42A.png" height="50%" width="50%" > 
+**difference between Linear regression and logistic regression:-**
+
+<img src="https://miro.medium.com/max/1450/1*rsNiQDB2HZBzlihOwyi42A.png" height="50%" width="50%" >
+
 > Now,We done with our 1st type of SL,let's take a look at 2nd type, Classification.
 
 ### What Is Classification? :-
