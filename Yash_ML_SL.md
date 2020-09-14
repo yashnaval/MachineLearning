@@ -86,11 +86,10 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 1. **Linear Regression** :-
 * A Linear Regression is one of the easiest algorithm in ML.It is a stastical model that attempts to show the relationship between the two variable,input(X) & output(Y) with the linear equation.The Input variable is called the Independent Variable and the Output variable is called the Dependent Variable.When unseen data is passed to the algorithm, it uses the function, calculates and maps the input to a continuous value for the output.
-* The equation has the form Y= b0 + b1X, where Y is the dependent variable (that's the variable that goes on the Y axis), X is the independent variable (i.e. it is plotted on the X axis), b is the slope of the line and a is the y-intercept.
+* The equation has the form Y= b0 + b1X, where Y is the dependent variable (that's the variable that goes on the Y axis), X is the independent variable (i.e. it is plotted on the X axis), b0 is the slope of the line and b1 is the y-intercept.
 <img src="https://nextjournal.com/data/QmfPuPp4V74FyvTTojMj6ix9T8Skj1ji4GhX5Pr6zK8w4N?filename=linear-regression.png&content-type=image/png" alt="linear regression">
 
 2. **Logistic Regression** :-
-* This algorithm predicts discrete values for the set of Independent variables that have been passed to it. It does the prediction by mapping the unseen data to the logit function that has been programmed into it. The algorithm predicts the probability of the new data and so it’s output lies between the range of 0 and 1.
-* Logistic Regression produces results in a binary format which is used to predict the outcome of a categorical dependent variable.So the outcome should be discrete/categorical such as:True or False,0 or 1.
-
+* Logistic Regression is a method used to predict a dependent variable,given a set of independent variables,such that the dependent variable is categorical.It does the prediction by mapping the unseen data to the logit function that has been programmed into it. The algorithm predicts the probability of the new data and so it’s output lies between the range of 0 and 1.
+* The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis)
 
