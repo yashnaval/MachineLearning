@@ -34,7 +34,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 
 * **Reinforcement Learning** :- There is no data in this kind of learning, nor do you teach the algorithm anything. You model the algorithm such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. With continuous interactions and learning. 
 
-##### Now that you have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important for real world solving problem?  What are the types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
+##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important for real world solving problem?  What are the types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
 
 ## What is Supervised Learning?:-
 
@@ -75,15 +75,13 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
 <img src="https://image.slidesharecdn.com/sr-170427000436/95/speech-recognition-system-1-638.jpg?cb=1494239334" width="30%" height="30%">
 
-##### Now that you have a basic idea of what is Supervised Learning,why SL is important,disadvantages and application.Let us move into its types and Algorithms.
+##### Now that we have a basic idea of what is Supervised Learning,why SL is important,disadvantages and application.Let us move into its types and Algorithms.
 
 ### What Is Regression? :-
 
 * Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable.
 * A regression analysis involves graphing a line over a set of data points that most closely fits the overall shape of the data or regression showes the changes in independent variable on y-axis to changes in the dependent variable on the x-axis.
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/linear-regression-vs-logistic-regression.png" alt="Regression" height="70%" width="70%">  
-
-> Now,I hope that you know What Regression is.so let's move on and understand its type.
 
 ### Types Of Regression :-
 
@@ -97,7 +95,7 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).The output curve is known as Sigmoid 'S' Curve.
 <img src="https://miro.medium.com/max/499/0*ENkZ5v28CDzuaoYU.png" height="35%" width="35%" alt="logistic regression">
 
-> Now,We done with our 1st type,let's look out on 2nd type Classification.
+> Now,We done with our 1st type of SL,let's take a look at 2nd type, Classification.
 
 ### What Is Classification? :-
 * Classification is a process of categorizing a given set of data into classes,it can be performed on both structured or not structured data.The process starts with predicting the class of given data points.The classes are often referred to as target,label or categories.
