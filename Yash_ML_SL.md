@@ -127,6 +127,9 @@ Machine learning is categorized by how an program/software learns to become more
       P(A|B)=  (P(B|A)*P(A))/P(B).<br>
       P(A) = probability of event before event B.<br>
       P(B) = probability of event after event B.
+      
+> These is all about ML and its types.In next topic we will learn about How it works.
+#### Thanks For Reading!!!
 
 
 
