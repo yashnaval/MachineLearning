@@ -97,6 +97,8 @@ Machine learning is often categorized by how an algorithm learns to become more 
 * The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).The output curve is known as Sigmoid 'S' Curve.
 <img src="https://miro.medium.com/max/499/0*ENkZ5v28CDzuaoYU.png" height="35%" width="35%" alt="logistic regression">
 
+> Now,We done with our 1st type,let's look out on 2nd type Classification.
+
 ### What Is Classification? :-
 * Classification is a process of categorizing a given set of data into classes,it can be performed on both structured or not structured data.The process starts with predicting the class of given data points.The classes are often referred to as target,label or categories.
 * The classification predicting modelling is the task of approximating the mapping function from input variables to discrete output variables.The main goal is to identify which class or category the new data will fall into.
