@@ -32,7 +32,7 @@ Machine learning is categorized by how an program/software learns to become more
 
 * **Unsupervised Learning** :- The data collected here has no labels and you are not sure about the outputs. So you model your program such that it can understand patterns from the input data and gives the required answer(output).
 
-* **Reinforcement Learning** :- There is no dataset in this kind of learning, not do you teach the algorithm anything. You model the program such that it interacts with the environment and if the algorithm does a good job, you reward it, else you punish the algorithm. 
+* **Reinforcement Learning** :- There is no dataset in this kind of learning, not do you teach the algorithm anything. You model the program ,it interacts with the environment and if the algorithm does a good job, you reward it.It's similar to our life like parents make a deal(if you get good marks i will buy you new i-phone)
 
 ##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important? Types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
 
@@ -60,12 +60,12 @@ Machine learning is categorized by how an program/software learns to become more
 ### Disadvantages :-
 
 * Classifying big data can be challenging.
-* Training for supervised learning needs a lot of computation time.So,it requires a lot of time.
+* training a SL requireds lots of data & lots of time.
 * We required lots of train data for good examples.
 
 ### Application of supervised learning :-
 
-* ***Spam Filtration:***  Detecting spam emails is indeed a very helpful tool, this filtration techniques can easily detect any sort of virus, malware . In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
+* ***Spam Filtration:***  Detecting spam emails is a very helpful application, this spam filteration technique easily detect any virus ,malware. In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
 <img src="https://miro.medium.com/max/1840/1*hsyCZOYoGrX6BJsj4Lgrhg.png" alt="spam filtration" width="40%" height="40%">
 
 * ***Sentiment Analysis:*** It is a language processing technique in which we check & categorize some meaning out of the given text data. For example, if we are analyzing messages of people and want to predict whether a message is a query, complaint, suggestion or opinion, we will simply use sentiment analysis.
