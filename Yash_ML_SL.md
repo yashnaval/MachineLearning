@@ -30,11 +30,11 @@ Machine learning is categorized by how an program/software learns to become more
 
 * **Supervised Learning** :- Supervised Learning works under supervision.the dataset that you have collected here is labelled and so you know what input needs to be mapped to what output. This helps you correct your program if there is some mistake.
 
-* **Unsupervised Learning** :- The data collected here has no labels and you are not sure about the outputs. So you model your program such that it can understand patterns from the input data and gives the required answer(output).
+* **Unsupervised Learning** :-  the info collected here has no labels and you're undecided about the outputs. So you model your program such it can understand patterns from the input file and provides the desired answer(output).
 
-* **Reinforcement Learning** :- There is no dataset in this kind of learning, not do you teach the algorithm anything. You model the program ,it interacts with the environment and if the algorithm does a good job, you reward it.It's similar to our life like parents make a deal(if you get good marks i will buy you new i-phone)
+* **Reinforcement Learning** :- there's no dataset during this quite learning, not does one teach the algorithm anything. You model the program ,it interacts with the environment and if the algorithm does an honest job, you reward it.It's kind of like our life like parents make a deal(if you get good marks i'll buy you new i-phone).
 
-##### Now that we have a basic idea of what is Machine Learning and the different types of Machine Learning, let us move into the actual topic for discussion here and answer What is Supervised Learning?  Why Supervised Learning is important? Types of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
+##### Now that we've got a basic idea of what's Machine Learning and therefore the differing kinds of Machine Learning, allow us to enter the particular topic for discussion here and answer what's Supervised Learning? Why Supervised Learning is important? kinds of Supervised Learning? what are disadvantage?explain applicartion od supervised learning? Supervised Learning Algorithms.
 
 ## What is Supervised Learning?:-
 
@@ -59,7 +59,7 @@ Machine learning is categorized by how an program/software learns to become more
 
 ### Disadvantages :-
 
-* Classifying big data can be challenging.
+* Classifying big data is challenging.
 * training a SL requireds lots of data & lots of time.
 * We required lots of train data for good examples.
 
@@ -68,13 +68,13 @@ Machine learning is categorized by how an program/software learns to become more
 * ***Spam Filtration:***  Detecting spam emails is a very helpful application, this spam filteration technique easily detect any virus ,malware. In recent studies, it was found that about **56.87%** of all emails revolving around the internet were spam in March 2017 which was a major drop from April 2014's **71.1%** spam share.
 <img src="https://miro.medium.com/max/1840/1*hsyCZOYoGrX6BJsj4Lgrhg.png" alt="spam filtration" width="40%" height="40%">
 
-* ***Sentiment Analysis:*** It is a language processing technique in which we check & categorize some meaning out of the given text data. For example, if we are analyzing messages of people and want to predict whether a message is a query, complaint, suggestion or opinion, we will simply use sentiment analysis.
+* ***Sentiment Analysis:*** It's a language processing technique during which we check & categorize some meaning out of the given text data. for instance, if we are analyzing messages of individuals and wish to predict whether a message could be a query, complaint, suggestion or opinion, we are going to simply use sentiment analysis.
 <img src="https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png" width="40%" height="40%">
 
 * ***Speech Recognition*** : Lots of people know about speech recognition,that you teach algorithm about voice system recognize it. The most well-known example such as Google Assistant and Siri or samsung assistant bixby.whatever information just tell them 'Hey siri'.
 <img src="https://image.slidesharecdn.com/sr-170427000436/95/speech-recognition-system-1-638.jpg?cb=1494239334" width="30%" height="30%">
 
-##### Now that we have a basic idea of what is Supervised Learning,why SL is important,disadvantages and application.Let us move into its types and Algorithms.
+##### Now that we've got a basic idea of what's Supervised Learning,why SL is very important,disadvantages and application.Let us move in its types and Algorithms.
 
 ### What Is Regression? :-
 
