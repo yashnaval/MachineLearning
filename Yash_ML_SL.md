@@ -90,8 +90,9 @@ Machine learning is categorized by how an program/software learns to become more
 <img src="https://nextjournal.com/data/QmfPuPp4V74FyvTTojMj6ix9T8Skj1ji4GhX5Pr6zK8w4N?filename=linear-regression.png&content-type=image/png" alt="linear regression">
 
 2. **Logistic Regression** :-
-* Logistic Regression is a method used to predict a dependent variable,given a set of independent variables,such that the dependent variable is categorical.It does the prediction by mapping the unseen data to the logit function that has been programmed into it. The algorithm predicts the probability of the new data and so it’s output lies between the range of 0 and 1.
-* The equation has the form log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is the dependent variable (that's the variable that goes on the Y axis),  X is the independent variable (i.e. it is plotted on the X axis).The output curve is known as Sigmoid 'S' Curve.
+* Logistic Regression could be a method wont to predict a variable,given a collection of independent variables,such that the variable is categorical.It does the prediction by mapping the unseen data to the logit function that has been programmed into it. The algorithm predicts the probability of the new data then it’s output lies between the range of 0 and 1.
+* The equation has the shape log(Y/1-Y)=B0+B1X1+B2X2+....,where Y is that the variable (that's the variable that goes on the Y axis), X is that the variable quantity (i.e. it's plotted on the X axis).The output curve is understood as Sigmoid 'S' Curve.
+logistic regression
 <img src="https://miro.medium.com/max/499/0*ENkZ5v28CDzuaoYU.png" height="35%" width="35%" alt="logistic regression">
 
 **difference between Linear regression and logistic regression:-**
@@ -101,11 +102,11 @@ Machine learning is categorized by how an program/software learns to become more
 > Now,We done with our 1st type of SL,let's take a look at 2nd type, Classification.
 
 ### What Is Classification? :-
-* Classification is a process of categorizing a given set of data into classes,it can be performed on both structured or not structured data.The process starts with predicting the class of given data points.The classes are often referred to as target,label or categories.
+* Classification is a process of categorizing a given set of knowledge into classes,,it can be performed on both structured or not structured data.The process starts with predicting the class of given data points.The classes are often referred to as target,label or categories.
 * The classification predicting modelling is the task of approximating the mapping function from input variables to discrete output variables.The main goal is to identify which class or category the new data will fall into.
 <img src="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png" alt="Classification"  height="50%" width="50%">
 
-* so let's try to understand with the simple example,Heart disease detection can be identified as a classification problem.There is a binary classification since there can only be two classes(has a heart disease or does not have a heart disease).The classifier in these case needs training data to understand how the given input variables are related to the class & one's the classifier is trained accurately,it can be use to detect whether heart disease or not for a particular patient.
+* so let's try and understand with the straightforward example,Heart disease detection can be identified as a classification problem.There is a binary classification since there can only be two classes(has a heart disease or does not have a heart disease).The classifier in these case needs training data to understand how the given input variables are related to the class & one's the classifier is trained accurately,it can be use to detect whether heart disease or not for a particular patient.
 
 ### Classification algorithm :-
 
@@ -121,7 +122,7 @@ Machine learning is categorized by how an program/software learns to become more
 8. K-Nearest Neighbor.
 
 > we already discuss about Logistic Regression,now we discuss another algorithm .
-* **Naive Bayes** :- 1. It is a classification algorithm which is based on Bayes Theorem.It gives an assumptions of independence among predictors.in simple way we can say that,Naive Bayes classifier assumes that the presence of a feature in a class is unrelated to the presence of other feature.Even if the feature depend on each other all are these properties contribute to the probability independently.So these model is easy to make & use for large dataset.
+* **Naive Bayes** :- 1. it's a classification algorithm which is predicated on Bayes Theorem.It gives an assumptions of independence among predictors.in simple way we are able to say that,Naive Bayes classifier assumes that the presence of a feature during a class is unrelated to the presence of other feature.Even if the feature rely upon one another all are these properties contribute to the probability independently.So these model is simple to create & use for large dataset.
 2. Bayes theorem :- Finding  the probability of event A, when event B is true.<br>
       P(A|B)=  (P(B|A)*P(A))/P(B).<br>
       P(A) = probability of event before event B.<br>
@@ -130,14 +131,14 @@ Machine learning is categorized by how an program/software learns to become more
 > These is all about ML and its types.In next topic we will learn about How it works.
 
 ### How Naive Bayes algorithm works?
-* Let’s understand it using an example.I have a training data set of weather and corresponding target variable ‘Play’ (which showing probability of playing). we need to classify whether players will play or not based on weather condition. Let’s follow the below steps :-
+* Let’s are aware of it using an example.I have a training data set of weather and corresponding target variable ‘Play’ (which showing probability of playing). we want to classify whether players will play or not supported weather. Let’s follow the below steps :-
 
 * Step 1: Convert the dataset into a frequency table
 
 * Step 2: find the probabilities like Overcast probability = 0.29 and probability of playing = 0.64.
 <img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Bayes_41-850x310.png" height="70%" width="70%">
 
-* Step 3: Now,We use Naive Bayesian equation to calculate the  probability for each class. The class with the highest posterior probability is the ouput.which is similar to prediction.
+* Step 3: Now,We use Naive Bayesian equation to calculate the probability for every class. the category with the best posterior probability is that the ouput.which is comparable to prediction.
 
 * **Problem**: Cricket will play if weather is clear. Is this statement is right?
 
