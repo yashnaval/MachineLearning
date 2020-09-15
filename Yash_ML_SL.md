@@ -51,7 +51,6 @@ Machine learning is categorized by how an program/software learns to become more
 * Supervised learning helps to solve various types of real-world problems.(for eg.Facebook uses face recognition when we try to tag someone,forecasting sales,weather detection).
 * Supervised learning use for classification problem.
 * Supervised learning is very useful in cyber-security.
-> With the importance of Supervised Learning understood, let’s take a look at the types of Supervised Learning.
 
 ### Types of Supervised Learning? :-
 
@@ -62,7 +61,7 @@ Machine learning is categorized by how an program/software learns to become more
 
 * Classifying big data can be challenging.
 * Training for supervised learning needs a lot of computation time.So,it requires a lot of time.
-* Good examples need to be used to train the data.
+* We required lots of train data for good examples.
 
 ### Application of supervised learning :-
 
@@ -72,7 +71,7 @@ Machine learning is categorized by how an program/software learns to become more
 * ***Sentiment Analysis:*** It is a language processing technique in which we check & categorize some meaning out of the given text data. For example, if we are analyzing messages of people and want to predict whether a message is a query, complaint, suggestion or opinion, we will simply use sentiment analysis.
 <img src="https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png" width="40%" height="40%">
 
-* ***Speech Recognition*** : This is the kind of application where you teach the algorithm about your voice and it will be able to recognize you. The most well-known real-world applications are virtual assistants such as Google Assistant and Siri, which will wake up to the keyword with your voice only.
+* ***Speech Recognition*** : Lots of people know about speech recognition,that you teach algorithm about voice system recognize it. The most well-known example such as Google Assistant and Siri or samsung assistant bixby.whatever information just tell them 'Hey siri'.
 <img src="https://image.slidesharecdn.com/sr-170427000436/95/speech-recognition-system-1-638.jpg?cb=1494239334" width="30%" height="30%">
 
 ##### Now that we have a basic idea of what is Supervised Learning,why SL is important,disadvantages and application.Let us move into its types and Algorithms.
